@@ -12,8 +12,8 @@ I am a Quality Assurance Engineer working in the Cyber Security space. I love Au
 *   🧠  I'm learning Kubernetes and Docker at the moment.
 *   🤝  I'm open to collaborating on Open Source Software
 *   ⚡  I "accidently" turned off my neighbours WiFi once, they didn't like it.
-<a href="https://www.github.com/Its-Haze" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Its-Haze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/Its-Haze" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Its-Haze?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
@@ -33,9 +33,9 @@ I am a Quality Assurance Engineer working in the Cyber Security space. I love Au
 </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://discord.com/users/haze#8888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Its-Haze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/haze#8888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Its-Haze" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
