@@ -8,7 +8,7 @@ I am a Quality Assurance Engineer working in the Cyber Security space. I love Au
 
 *   🌍  I'm based in Sweden.
 *   ✉️  You can contact me at [erva@outpost24.com](mailto:erva@outpost24.com)
-*   🚀  I'm currently working on [Outpost24](http://outpost24.com)
+*   🚀  I'm currently working at [Outpost24](http://outpost24.com)
 *   🧠  I'm learning Kubernetes and Docker at the moment.
 *   🤝  I'm open to collaborating on Open Source Software
 *   ⚡  I "accidently" turned off my neighbours WiFi once, they didn't like it.
