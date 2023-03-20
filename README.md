@@ -7,7 +7,7 @@ QA Engineer and Software Developer
 I am a Quality Assurance Engineer working in the Cyber Security space. I love Automation, Python, Shell scripting, Linux and Quality Assuring Software to meet customers expectations
 
 *   🌍  I'm based in Sweden.
-*   ✉️  You can contact me at [erva@outpost24.com](mailto:erva@outpost24.com)
+*   ✉️  You can contact me at [haze.git@pm.me](mailto:haze.git@pm.me)
 *   🚀  I'm currently working at [Outpost24](http://outpost24.com)
 *   🧠  I'm learning Kubernetes and Docker at the moment.
 *   🤝  I'm open to collaborating on Open Source Software
