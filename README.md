@@ -4,7 +4,7 @@ Hi 👋 My name is Haze
 QA Engineer and Software Developer
 ----------------------------------
 
-I am a Quality Assurance Engineer working in the Cyber Security space. I love Automation, Python, Shell scripting, Linux and Quality Assuring Software to meet customers expectations
+I am a Quality Assurance Engineer working in the Cyber Security space. I love Automation, Python, Shell scripting and Linux
 
 *   🌍  I'm based in Sweden.
 *   ✉️  You can contact me at [haze.git@pm.me](mailto:haze.git@pm.me)
