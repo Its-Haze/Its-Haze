@@ -1,8 +1,8 @@
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/165102125746094080?idleMessage=Not%20doing%20anything.%20Ping%20me%20I%20dare%20you.&)](https://discord.com/users/165102125746094080)
-
 Hi 👋 My name is Haze
 =====================
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/165102125746094080?idleMessage=Not%20doing%20anything.%20Ping%20me%20I%20dare%20you.&)](https://discord.com/users/165102125746094080)
 
 Developer & QA Engineer
 -----------------------
