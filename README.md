@@ -9,7 +9,7 @@ Developer & QA Engineer
 
 I am a Quality Assurance Engineer working in the Cyber Security space. I love Automation, Python, Shell scripting and Linux
 
-* 🖥️  See my portfolio at [haze.sh](http://haze.sh)
+* 🖥️  See my portfolio at [haze.sh](https://haze.sh)
 * ✉️  You can contact me at [haze.git@pm.me](mailto:haze.git@pm.me)
 * 🚀  I'm currently working on [League RPC](http://league.haze.sh)
 * 🧠  I'm learning Kubernetes
