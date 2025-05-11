@@ -8,6 +8,7 @@ Software Developer
 -----------------------
 
 I am a Software Developer working in the Cyber Security space. I mainly build backend services in Golang & Python.
+
 Previously worked as a Quality Assurance Engineer for 3 years.
 
 * 🖥️  See my portfolio at [haze.sh](https://haze.sh)
