@@ -4,15 +4,16 @@ Hi 👋 My name is Haze
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/165102125746094080?idleMessage=Not%20doing%20anything.%20Ping%20me%20I%20dare%20you.&)](https://discord.com/users/165102125746094080)
 
-Backend Software Developer
+Software Developer
 -----------------------
 
-I am a Software Developer working in the Cyber Security space. I love Automation, Python, Go, Shell scripting and Linux
+I am a Software Developer working in the Cyber Security space. I mainly build backend services in Golang & Python.
+Previously worked as a Quality Assurance Engineer for 3 years.
 
 * 🖥️  See my portfolio at [haze.sh](https://haze.sh)
 * ✉️  You can contact me at [haze.git@pm.me](mailto:haze.git@pm.me)
 * 🚀  I'm currently working on [League RPC](http://league.haze.sh)
-* 🧠  I'm learning Kubernetes
+* 🧠  I'm currently learning Kafka and event driven design.
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I "accidently" turned off my neighbours WiFi once, they didn't like it.
 
