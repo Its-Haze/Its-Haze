@@ -41,6 +41,6 @@ src="https://img.shields.io/github/followers/its-haze?logo=github&style=for-the-
 
 <a href="http://www.github.com/its-haze"><img src="https://github-readme-stats.vercel.app/api?username=its-haze&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="its-haze's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+[<b>Top Repositories</b>]: #
 
-<div width="100%" align="center"><a href="https://github.com/its-haze/league-rpc" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=its-haze&repo=league-rpc&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /> </a> </div><br /><br /><br /><br /><br /><br /><br />
+[<div width="100%" align="center"><a href="https://github.com/its-haze/league-rpc" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=its-haze&repo=league-rpc&title_color=ffffff&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /> </a> </div><br /><br /><br /><br /><br /><br /><br />]: #
