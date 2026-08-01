@@ -14,7 +14,7 @@ Previously worked as a Quality Assurance Engineer for 3 years.
 * 🖥️  See my portfolio at [haze.sh](https://haze.sh)
 * ✉️  You can contact me at [haze.git@pm.me](mailto:haze.git@pm.me)
 * 🚀  I'm currently working on [League RPC](http://league.haze.sh)
-* 🧠  I'm currently learning Kafka and event driven design.
+* 🧠  I'm currently learning Game Development & World Building
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  I "accidently" turned off my neighbours WiFi once, they didn't like it.
 
